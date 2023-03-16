@@ -1,1 +1,1 @@
-# Dental-clinic-mangement-system
+# dentalclinic
